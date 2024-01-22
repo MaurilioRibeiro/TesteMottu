@@ -1,0 +1,15 @@
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\bin\Debug\net6.0\TesteMottu.exe
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\bin\Debug\net6.0\TesteMottu.deps.json
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\bin\Debug\net6.0\TesteMottu.runtimeconfig.json
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\bin\Debug\net6.0\TesteMottu.dll
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\bin\Debug\net6.0\TesteMottu.pdb
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.csproj.AssemblyReference.cache
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.AssemblyInfoInputs.cache
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.AssemblyInfo.cs
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.csproj.CoreCompileInputs.cache
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.dll
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\refint\TesteMottu.dll
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.pdb
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\TesteMottu.genruntimeconfig.cache
+C:\Users\Maurilio\source\repos\TesteMottu\TesteMottu\obj\Debug\net6.0\ref\TesteMottu.dll
